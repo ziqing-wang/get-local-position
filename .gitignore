@@ -4,6 +4,8 @@
 .DS_Store
 
 .git
+.gitignore
 .parcel-cache
 .vscode
 node_modules
+dist
